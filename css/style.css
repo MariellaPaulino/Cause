@@ -1,0 +1,33 @@
+
+#firstContainer {
+	background-color: black;
+	color: white;
+	text-align: center;	
+	padding-top: 5%;
+	padding-bottom: 5%;
+	margin-bottom: 5%;
+}
+
+.buttonContainer {
+	float: left;
+	position: relative;
+    width: 300px;
+}
+
+#tech {
+	width: 200px;
+  	height: 200px;
+	background: url('../images/tech/tech1.jpg') no-repeat top left;
+	}
+
+#beauty {
+	width: 200px;
+  	height: 200px;
+	background: url('../images/beauty/beauty1.jpeg') no-repeat top left;
+}
+
+#family {
+	width: 200px;
+  	height: 200px;
+	background: url('../images/family/family1.jpeg') no-repeat top left;
+}
